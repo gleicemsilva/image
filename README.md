@@ -2,4 +2,4 @@
 
 <p float="left">
 
- <img src="https://user-images.githubusercontent.com/batteries-6722619_1920.png" width="200" />
+ <img src="https://github.com/gleicemsilva/image/issues/1#issue-1876717513" width="200" />
